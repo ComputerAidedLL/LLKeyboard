@@ -1,0 +1,28 @@
+default  partial keypad_keys
+xkb_symbols "x11" {
+
+    include "us"
+
+    key  <KP7> { [ asciicircum, asciicircum ] };
+    key  <KP8> { [ question, question ] };
+    key  <KP9> { [ exclam, exclam ] };
+
+    key  <KP4> { [ A, A ] };
+    key  <KP5> { [ parenleft, B ] };
+    key  <KP6> { [ parenright, C ] };
+
+    key  <KP1> { [ 1, D ] };
+    key  <KP2> { [ U22A5, E ] };
+    key  <KP3> { [ U22A4, F ] };
+    key <KPEN> { [ KP_Enter, KP_Enter ] };
+    key <KPEQ> { [ KP_Enter, KP_Enter ] };
+
+    key  <KP0> { [ 0, 0 ] };
+    key <KPDL> { [ comma, U22A2 ] };
+    key <KPPT> { [ comma, U22A2 ] };
+
+    key <KPDV> { [ U214B, U22B8 ] };
+    key <KPMU> { [ U2297, U2297 ] };
+    key <KPSU> { [ U0026, U0026 ] };
+    key <KPAD> { [ U2295, U2295 ] };
+};
