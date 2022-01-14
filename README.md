@@ -4,7 +4,7 @@
 This describes how to configure your keyboard to get direct access to the main utf-8 symbols for linear logic. The input of linear logic formulas becomes as easy as for arithmetic expressions.
 
 *The following instructions have been tested on Linux Ubuntu 18.04 only.
-Fell free to tell us if it works under other distributions or how to adapt it, or to report any trouble by submitting an issue or a pull-request on GitHub.*
+Feel free to tell us if it works under other distributions or how to adapt it, or to report any trouble by submitting an issue or a pull-request on GitHub.*
 
 The generated keymap is depicted in [map_utf8.txt](map_utf8.txt).
 
